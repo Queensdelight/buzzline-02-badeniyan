@@ -2,7 +2,7 @@
 
 Streaming Data Project 2
 
-Bukola Adeniyan, January 24, 2025
+## Bukola Adeniyan, January 24, 2025
 
 https://github.com/Queensdelight/buzzline-02-badeniyan.git
 
