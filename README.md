@@ -1,4 +1,10 @@
-# buzzline-02-case
+# buzzline-02-badeniyan
+
+Streaming Data Project 2
+
+Bukola Adeniyan, January 24, 2025
+
+https://github.com/Queensdelight/buzzline-02-badeniyan.git
 
 Streaming data is often too big for any one machine. 
 A streaming platform helps organize our pipelines.
